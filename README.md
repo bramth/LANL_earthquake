@@ -1,0 +1,1 @@
+Model for Kaggle Challenge 'LANL Earthquake prediction' using Time Series and Machine Learning algorithms. 
